@@ -1,2 +1,8 @@
 # TodoApp-Architecture
-allows users to perform CRUD operations on a Todo list. This project is built with a clean and modular  architecture, making it scalable and easy to maintain. It separates concerns using layers like Controllers,  Models, DTOs, Repositories, Mapping, and Data Context.
+This is a simple and user-friendly application for managing daily tasks. It helps users add, edit, and organize their to-do items efficiently.
+
+## Features
+
+- Add, edit, and delete tasks
+- Mark tasks as complete
+- User-friendly interface
